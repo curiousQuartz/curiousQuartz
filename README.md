@@ -11,4 +11,4 @@ curiousQuartz/curiousQuartz is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Adira's github trophy](https://github-profile-trophy.vercel.app/?username=curiousQuartz&theme=algolia&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Adira's github trophy](https://github-profile-trophy.vercel.app/?username=curiousQuartz&theme=algolia&margin-w=15&margin-h=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
