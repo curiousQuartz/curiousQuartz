@@ -14,7 +14,7 @@
 
 ### My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&count_private=true&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&rank_icon=github&show_icons=true&theme=algolia)
 
 ### I'm currently working on
 
@@ -23,4 +23,4 @@
 
 ### What I'm coding in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
