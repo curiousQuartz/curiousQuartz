@@ -14,13 +14,13 @@
 
 ### My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&rank_icon=github&show_icons=true&theme=algolia)
+![Adira's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&rank_icon=github&show_icons=true&theme=algolia)
 
 ### I'm currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=Curiosities&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=Curiosities&theme=algolia)](https://github.com/curiousQuartz/Curiosities)
 
 
 ### What I'm coding in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia&layout=donut)
