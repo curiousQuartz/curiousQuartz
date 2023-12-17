@@ -24,3 +24,5 @@
 ### What I'm coding in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=CuriousQuartz&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
