@@ -16,16 +16,14 @@
 --->
 ### My stats
 
-[![Adira's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&rank_icon=github&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Adira's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousQuartz&rank_icon=github&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I'm currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=Curiosities&theme=algolia)](https://github.com/curiousQuartz/Curiosities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=Curiosities&theme=gotham)](https://github.com/curiousQuartz/Curiosities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=crystals&theme=gotham)](https://github.com/curiousQuartz/crystals)
 
 
 ### What I'm coding in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=algolia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://visitcount.itsvg.in/api?id=CuriousQuartz&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousQuartz&theme=gotham&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
