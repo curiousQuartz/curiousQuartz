@@ -21,7 +21,7 @@
 ### I'm currently working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=Curiosities&theme=algolia)](https://github.com/curiousQuartz/Curiosities)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=crystals&theme=algolia)](https://github.com/curiousQuartz/crystals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curiousQuartz&repo=crystals&theme=gotham)](https://github.com/curiousQuartz/crystals)
 
 
 ### What I'm coding in
